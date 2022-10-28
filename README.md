@@ -11,7 +11,6 @@ members.ts にメンバー情報、取得先フィードを設定してくださ
 Cloudlare Pages で公開予定
 
 ## Acknowledgment
-
 本ページは下記 template を用いています。
 https://zenn.dev/catnose99/articles/cb72a73368a547756862
 
