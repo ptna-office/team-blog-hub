@@ -27,7 +27,7 @@ export const members: Member[] = [
     name: "Victor Manuel",
     role: "Flutter app developer",
     bio: "Mexican, living in Japan Tokyo. I'm iOS, Android developer. メキシコ人日本に住んでいました。エンジニア iOS + Flutter + Android, 納豆が好きです。",
-    avatarSrc: "/avatars/vicor_emanuel.png",
+    avatarSrc: "/avatars/victor_manuel.png",
     sources: ["https://medium.com/feed/@victormanuellagunas"],
     twitterUsername: "VicktorManuel",
     githubUsername: "victormanuelfrancodev",
