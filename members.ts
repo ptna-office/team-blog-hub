@@ -12,7 +12,7 @@ export const members: Member[] = [
     websiteUrl: "https://corporate.piano.or.jp/ptnyan/index.html",
   },
   {
-    id: "11",
+    id: "hi-noguchi",
     name: "Hiroyuki Noguchi",
     role: "CTO",
     bio: "ピティナ（一般社団法人全日本ピアノ指導者協会） 本部CTO／株式会社東音企画 外部 CTO。",
@@ -23,7 +23,16 @@ export const members: Member[] = [
     websiteUrl: "https://hi-noguchi.com/",
   },
   {
-    id: "90",
+    id: "HosakaKeigo",
+    name: "HosakaKeigo",
+    role: "undefined",
+    bio: "Google Apps Scriptが好きです。",
+    avatarSrc: "/avatars/hosaka.jpg",
+    sources: ["https://zenn.dev/hosaka313/feed"],
+    githubUsername: "HosakaKeigo",
+  },  
+  {
+    id: "victormanuelfrancodev",
     name: "Victor Manuel",
     role: "Flutter app developer",
     bio: "Mexican, living in Japan Tokyo. I'm iOS, Android developer. メキシコ人日本に住んでいました。エンジニア iOS + Flutter + Android, 納豆が好きです。",
