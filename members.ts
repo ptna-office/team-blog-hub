@@ -31,4 +31,14 @@ export const members: Member[] = [
     twitterUsername: "VicktorManuel",
     githubUsername: "victormanuelfrancodev",
   },
+  {
+    id: "Yoppei",
+    name: "Yohei Okawa",
+    role: "undefined",
+    bio: "iOSアプリを個人開発しています。いつもコーヒーを片手に仕事しています。",
+    avatarSrc: "/avatars/okawa.jpg",
+    sources: ["https://zenn.dev/z_ypi/feed"],
+    twitterUsername: "y_lsisa",
+    githubUsername: "Yoppei",
+  },
 ];
