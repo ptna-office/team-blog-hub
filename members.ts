@@ -36,7 +36,7 @@ export const members: Member[] = [
     name: "Yohei Okawa",
     role: "undefined",
     bio: "iOSアプリを個人開発しています。いつもコーヒーを片手に仕事しています。",
-    avatarSrc: "",
+    avatarSrc: "/avatars/okawa.jpg",
     sources: ["https://zenn.dev/z_ypi/feed"],
     twitterUsername: "y_lsisa",
     githubUsername: "Yoppei",
