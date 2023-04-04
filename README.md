@@ -2,6 +2,9 @@
 
 ピティナ・東音の社外記事、とくに Qiita,Zenn のフィードをまとめるページ。
 
+## Site
+https://ptna-toon-team-blog-hub.pages.dev/
+
 ## Usage
 `members.ts` のJSONでメンバー情報、取得先フィードをGitHubのエディタで追加・修正してください。
 
